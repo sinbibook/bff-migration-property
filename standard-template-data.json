@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-06-10T03:27:26.403501144Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-06-10T03:29:19.239699045Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "8018f266-8b13-4aba-8c98-fd60baf9ed02",
     "homepageId": "abbc3009-d7a2-4b25-93e6-f938ffee5d71"
@@ -1726,7 +1726,17 @@
       "popup": {
         "popups": [ ]
       },
-      "theme": null,
+      "theme": {
+        "font": {
+          "koSub": null,
+          "enMain": null,
+          "koMain": null
+        },
+        "color": {
+          "primary": "#FFF9F1",
+          "secondary": "#B66E41"
+        }
+      },
       "property": {
         "name": "BFF 숙소",
         "images": [
