@@ -1,1 +1,1 @@
-# bff-migration-property
+# template-full-banner-accordion Template
